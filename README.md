@@ -1,5 +1,4 @@
-# JavaScript_Mini_Projects
-# JavaScript Mini Projects 🚀
+# JavaScript_Mini_Projects 🚀
 
 Welcome to **JavaScript_Mini_Projects**, a curated collection of small, hands-on JavaScript projects designed for developers of all levels—from absolute beginners to intermediate coders—who want to **practice, experiment, and strengthen their JavaScript skills**.
 
